@@ -1,4 +1,4 @@
-# note_app_php
+# Note app with PHP API
 
 A new Flutter project.
 
